@@ -1,0 +1,27 @@
+[
+  {
+    "id": 1,
+    "question": "What is the larget lake in the world?",
+    "option": {
+      "option_a": "Caspian Sea",
+      "option_b": "Baikal",
+      "option_c": "Lake Superior",
+      "option_d": "Ontario"
+    },
+
+    "answer": "Baikal"
+  },
+
+  {
+    "id": 2,
+    "question": "Which planet in the solar system is known as the 'Red Planet'?",
+    "option": {
+      "option_a": "Venus",
+      "option_b": "Earth",
+      "option_c": "Mars",
+      "option_d": "Jupiter"
+    },
+
+    "answer": "Mars"
+  }
+]
